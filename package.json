@@ -1,0 +1,20 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "PROJECT TITLE: 3813 Week 2 \r Description: Workshop Activity\r Install struction:\r Run instruction:\r Clone this Git and use this file on your local computer\r Table of Weeks for the course:\r Git and Github Introduction\r Course Content:\r Link for lecture note\r https://bblearn.griffith.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_102707_1&content_id=_6946097_1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1wooch/myFirstGit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1wooch/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/1wooch/myFirstGit#readme"
+}

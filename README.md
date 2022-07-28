@@ -1,13 +1,19 @@
-PROJECT TITLE: 3813 Week 2 
-Description: Workshop Activity
-Install struction:
-Run instruction:
+*#PROJECT TITLE: 3813 Week 2 
+*Description: Workshop Activity
+*Install struction: git clone
+*Run instruction:
 Clone this Git and use this file on your local computer
-Table of Weeks for the course:
+*Table of Weeks for the course:
 Git and Github Introduction
-Course Content:
+*Course Content:
 Link for lecture note
 https://bblearn.griffith.edu.au/webapps/blackboard/content/listContent.jsp?course_id=_102707_1&content_id=_6946097_1
+
+
+Course code| Date
+------------ | -------------
+3813ICT | 29-07-2022
+------------------------------
 
 Git is a free and open source software that provides a version control
 system for tracking changes in computer files and coordinating work on those
